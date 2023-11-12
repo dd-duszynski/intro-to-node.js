@@ -1,0 +1,57 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "work",
+        " serious"
+      ],
+      "content": "clean my room",
+      "id": 1699190835533
+    },
+    {
+      "tags": [
+        "work",
+        " serious"
+      ],
+      "content": "clean my room",
+      "id": 1699190853345
+    },
+    {
+      "tags": [],
+      "content": "learn Node",
+      "id": 1699191571187
+    },
+    {
+      "tags": [],
+      "content": "learn sharepoint",
+      "id": 1699192022689
+    },
+    {
+      "tags": [
+        "database"
+      ],
+      "content": "learn mongo",
+      "id": 1699192096362
+    },
+    {
+      "tags": [],
+      "content": "learn next.js",
+      "id": 1699787933433
+    },
+    {
+      "tags": [
+        "dev"
+      ],
+      "content": "learn next.js",
+      "id": 1699787963903
+    },
+    {
+      "tags": [
+        "tag1",
+        " tag2"
+      ],
+      "content": "test tag",
+      "id": 1699788498506
+    }
+  ]
+}
